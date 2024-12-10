@@ -1,6 +1,6 @@
 # Linear Regression with Different Loss Functions
 
-This Jupyter Notebook demonstrates the implementation of linear regression on an Air Quality Dataset from UC Irvine which can be found ![here](https://archive.ics.uci.edu/dataset/360/air+quality). The dataset includes 9358 instances of and air data (like temperature, humidity, and chemical makeup) which consists of real numbers and some correlations — perfect for demonstrating linear regression.
+This Jupyter Notebook demonstrates the implementation of linear regression on an Air Quality Dataset from UC Irvine which can be found [here](https://archive.ics.uci.edu/dataset/360/air+quality). The dataset includes 9358 instances of and air data (like temperature, humidity, and chemical makeup) which consists of real numbers and some correlations — perfect for demonstrating linear regression.
 
 ## Description
 
@@ -21,7 +21,7 @@ The dataset used in this notebook can be found at the following link:
 ## Steps to Run the Code
 1. **Clone the Repository**:
     ```sh
-    git clone <repository-url>
+    git clone <[repository-url](https://github.com/Becxster/INDE-577.git)>
     cd <repository-directory>
     ```
 
