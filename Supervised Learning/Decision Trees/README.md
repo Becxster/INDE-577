@@ -1,6 +1,6 @@
 # Titanic Dataset Overview
 
-The Titanic dataset contains data about passengers aboard the Titanic, including demographic and ticket details. 
+The Titanic dataset contains data about passengers aboard the Titanic, including demographic and ticket details. In this jupyter notebook, I explore decision trees and regression trees on the Titanic dataset.
 
 ## Dataset Details
 
