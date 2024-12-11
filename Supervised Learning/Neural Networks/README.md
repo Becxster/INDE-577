@@ -54,5 +54,5 @@ For more information and to download the dataset, visit the [UCI Machine Learnin
     ```sh
     jupyter notebook
     ```
-    Open linear_regression.ipynb from the Jupyter interface.
+    Open neural_networks.ipynb from the Jupyter interface.
 4. **Run the Cells**
