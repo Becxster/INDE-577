@@ -49,7 +49,7 @@ You can download the Seeds Dataset directly from the [UCI Repository](https://ar
 ## Steps to Run the Code
 1. **Clone the Repository**:
     ```sh
-    git clone <[repository-url](https://github.com/Becxster/INDE-577.git)>
+    git clone https://github.com/Becxster/INDE-577.git
     cd <repository-directory>
     ```
 

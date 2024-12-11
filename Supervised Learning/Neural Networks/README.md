@@ -41,7 +41,7 @@ For more information and to download the dataset, visit the [UCI Machine Learnin
 ## Steps to Run the Code
 1. **Clone the Repository**:
     ```sh
-    git clone <[repository-url](https://github.com/Becxster/INDE-577.git)>
+    git clone https://github.com/Becxster/INDE-577.git
     cd <repository-directory>
     ```
 

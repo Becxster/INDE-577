@@ -21,7 +21,7 @@ The dataset used in this notebook can be found at the following link:
 ## Steps to Run the Code
 1. **Clone the Repository**:
     ```sh
-    git clone <[repository-url](https://github.com/Becxster/INDE-577.git)>
+    git clone https://github.com/Becxster/INDE-577.git
     cd <repository-directory>
     ```
 
