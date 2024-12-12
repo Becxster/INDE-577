@@ -1,8 +1,10 @@
 
 # Random Forest
-In this 
+In this notebook, I use the Forest Fires dataset to develop a random forest model. Random forest is an ensemble machine learning algorithm that combines multiple decision trees which improves accuracy and discourages overfitting. It works by training multiple decision trees on random subsets of the data and features, and then aggregating their predictions.
+
 
 ## Forest Fires Dataset Overview
+The Forest Fires dataset contains 12 features and a highly skewed output variable (`area`, the burned area of the forest). 
 
 ### **Title**
 Forest Fires Dataset
