@@ -45,5 +45,5 @@ You can find the dataset on Kaggle at the [Titanic Kaggle Competition](https://w
     ```sh
     jupyter notebook
     ```
-    Open decision_trees.ipynb from the Jupyter interface.
+    Open decision_regression_trees.ipynb from the Jupyter interface.
 4. **Run the Cells**
