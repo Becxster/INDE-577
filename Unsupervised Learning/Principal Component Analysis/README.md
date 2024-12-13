@@ -1,6 +1,6 @@
-# K-Means Clustering
+# Principal Component Analysis (PCA)
+Principal Component Analysis (PCA) is a dimensionality reduction technique that transforms high-dimensional data into a lower-dimensional space by identifying directional vectors (principal components) with the most variance. To do this, we compute the eigenvectors and eigenvalues of the data's covariance matrix or using Singular Value Decomposition (SVD) to project the data onto these components. In this notebook, I use PCA on the UCI Wine Dataset to find the best projections onto the 2-Dimensional Plane to separate the types of wine into clusters. 
 
-K-Means is an **unsupervised learning algorithm** used for clustering data into $k$ groups based on feature similarity. Over many iterations, it minimizes the variance within each cluster to group similar data points together. In this notebook, I implement K-Means Clustering on the UCI Wine Dataset, walk through the algorithm, and experiment with some 3D visualization.
 
 ## UCI Wine Dataset
 
@@ -56,6 +56,5 @@ The dataset includes 13 chemical and physical properties of wines:
     ```sh
     jupyter notebook
     ```
-    Open rk_means_clustering.ipynb from the Jupyter interface.
+    Open pca.ipynb from the Jupyter interface.
 4. **Run the Cells**
-
