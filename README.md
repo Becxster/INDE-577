@@ -31,3 +31,5 @@ Unsupervised learning identifies patterns and structures in unlabeled datasets.
 4. **Image Compression with the Singular Value Decomposition (SVD)**: Compresses images by decomposing them into singular values and selecting the most significant components.
 
 ---
+
+All notebooks were run on Python 3.11.5

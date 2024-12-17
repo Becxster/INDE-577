@@ -23,3 +23,8 @@ sqlalchemy
 psycopg2
 pytest
 sphinx
+ipywidgets
+jupyterlab
+nbconvert
+nbformat
+ipykernel
