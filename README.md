@@ -32,4 +32,4 @@ Unsupervised learning identifies patterns and structures in unlabeled datasets.
 
 ---
 
-All notebooks were run on Python 3.11.5
+All notebooks are made to run on Python 3.11.5
